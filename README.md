@@ -13,7 +13,7 @@ Ensure that you have Python 3.7+ and MongoDB installed. Install the required Pyt
 
 ## Usage
 
-Check `portfolio_management.py` for an example usage of this system. Users can input their portfolio and the system will provide relevant analytics.
+Check `portfolio_performance_analyser.py` for an example usage of this system. Users can input their portfolio and the system will provide relevant analytics.
 
 ## License
 
